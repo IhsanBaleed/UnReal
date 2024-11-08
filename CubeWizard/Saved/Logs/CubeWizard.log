@@ -4191,3 +4191,1545 @@ Script call stack:
 [2024.11.08-19.41.55:309][968]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
 [2024.11.08-19.41.55:315][968]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
 [2024.11.08-19.41.55:315][968]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.42.26:854][ 98]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.42.27:316][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.08-19.42.27:334][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto3
+[2024.11.08-19.42.27:334][135]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/DY1JYT47TNQMLBO6QJVLD4_Auto3BF7AF2DC4E5AC5CD4C4E959F9E261FD2.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto3.uasset'
+[2024.11.08-19.42.27:335][135]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.034
+[2024.11.08-19.42.27:335][135]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.034
+[2024.11.08-19.42.27:336][135]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Sorter] ([2] browsable assets)...
+[2024.11.08-19.42.27:336][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Sorter]
+[2024.11.08-19.42.27:361][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto3
+[2024.11.08-19.42.27:361][135]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Sorter_Auto3C6C62D4A4E60276F4DAF00A3D4CA2138.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto3.uasset'
+[2024.11.08-19.42.27:362][135]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Mover] ([2] browsable assets)...
+[2024.11.08-19.42.27:362][135]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Mover]
+[2024.11.08-19.42.27:405][135]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Mover_Auto3
+[2024.11.08-19.42.27:405][135]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Mover_Auto3152A8CDD4F3279F96228F589F8DE151C.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Mover_Auto3.uasset'
+[2024.11.08-19.42.27:406][135]LogFileHelpers: Auto-saving content packages took 0.071
+[2024.11.08-19.42.36:873][231]LogViewport: Scene viewport resized to 1395x979, mode Windowed.
+[2024.11.08-19.43.02:460][289]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-19.43.02:480][289]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.02:480][289]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.02:505][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.08-19.43.02:507][289]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.02:508][289]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.02:535][289]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.02:535][289]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.52:398][167]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.52:399][167]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.55:543][534]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-19.43.55:564][534]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.55:564][534]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.55:588][534]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.11.08-19.43.55:589][534]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.55:590][534]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.55:595][534]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.43.55:596][534]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.03:786][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.03:787][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.06:224][763]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-19.44.06:243][763]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.06:243][763]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.06:268][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.08-19.44.06:270][763]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.06:271][763]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.06:286][763]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.06:286][763]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.17:661][ 27]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.17:662][ 27]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.20:536][364]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-19.44.20:554][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.20:554][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.20:576][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.08-19.44.20:577][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.20:578][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.20:584][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.20:584][364]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.36:948][298]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.36:949][298]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.43:752][ 92]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.44.43:753][ 92]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-19.46.21:590][868]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3223.038818
+[2024.11.08-19.46.22:589][871]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-19.46.22:589][871]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3223.705566, Update Interval: 325.016632
+[2024.11.08-19.52.27:657][965]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.08-19.52.27:679][965]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto4
+[2024.11.08-19.52.27:680][965]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/DY1JYT47TNQMLBO6QJVLD4_Auto43128A7C240F1549543C6068971E59678.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto4.uasset'
+[2024.11.08-19.52.27:681][965]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.041
+[2024.11.08-19.52.27:681][965]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.041
+[2024.11.08-19.52.27:682][965]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Sorter] ([2] browsable assets)...
+[2024.11.08-19.52.27:682][965]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Sorter]
+[2024.11.08-19.52.27:710][965]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto4
+[2024.11.08-19.52.27:710][965]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Sorter_Auto4DE534F8E4603953C822F03941C1B3C61.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto4.uasset'
+[2024.11.08-19.52.27:711][965]LogFileHelpers: Auto-saving content packages took 0.029
+[2024.11.08-19.52.32:620][981]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3594.065430
+[2024.11.08-19.52.33:619][984]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-19.52.33:619][984]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3594.731934, Update Interval: 350.877411
+[2024.11.08-19.54.30:154][333]LogDerivedDataCache: C:/Users/Ihsan Baleed/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.089 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 476 files in 876 folders with total size 8 MiB.
+[2024.11.08-19.59.13:018][182]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3994.466064
+[2024.11.08-19.59.14:018][185]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-19.59.14:018][185]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3995.133057, Update Interval: 312.413086
+[2024.11.08-20.05.01:402][227]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4342.877441
+[2024.11.08-20.05.02:402][230]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-20.05.02:402][230]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4343.544922, Update Interval: 305.324860
+[2024.11.08-20.10.58:429][298]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4699.927246
+[2024.11.08-20.10.59:429][301]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-20.10.59:429][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4700.594727, Update Interval: 352.618805
+[2024.11.08-20.17.39:180][500]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5100.696289
+[2024.11.08-20.17.40:179][503]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-20.17.40:179][503]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5101.363281, Update Interval: 331.702026
+[2024.11.08-20.24.10:537][674]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5492.106445
+[2024.11.08-20.24.11:538][677]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-20.24.11:538][677]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5492.773438, Update Interval: 327.486816
+[2024.11.08-20.30.32:226][819]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5873.832520
+[2024.11.08-20.30.33:226][822]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-20.30.33:226][822]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5874.499512, Update Interval: 353.235870
+[2024.11.08-20.31.58:041][157]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.31.58:043][157]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.32.03:767][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.32.03:768][835]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.32.30:279][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2024.11.08-20.32.30:283][966]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto5
+[2024.11.08-20.32.30:284][966]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/DY1JYT47TNQMLBO6QJVLD4_Auto5576E8DB14521B96E2DC8E29AB6EA5E88.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto5.uasset'
+[2024.11.08-20.32.30:285][966]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.035
+[2024.11.08-20.32.30:285][966]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2024.11.08-20.32.30:286][966]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Sorter] ([2] browsable assets)...
+[2024.11.08-20.32.30:286][966]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Sorter]
+[2024.11.08-20.32.30:323][966]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto5
+[2024.11.08-20.32.30:323][966]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Sorter_Auto53E66F9304E2835B42ACE10880D7C151E.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto5.uasset'
+[2024.11.08-20.32.30:324][966]LogFileHelpers: Auto-saving content packages took 0.039
+[2024.11.08-20.37.09:762][494]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6270.595703
+[2024.11.08-20.37.09:933][515]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-20.37.09:933][515]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6270.758789, Update Interval: 324.945221
+[2024.11.08-20.43.10:439][772]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6630.322754
+[2024.11.08-20.43.10:589][790]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-20.43.10:589][790]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6630.464355, Update Interval: 311.244843
+[2024.11.08-20.48.54:777][ 87]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6973.785645
+[2024.11.08-20.48.54:911][103]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-20.48.54:911][103]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6973.910156, Update Interval: 326.695770
+[2024.11.08-20.51.06:724][918]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: dc8...33f
+[2024.11.08-20.51.06:724][918]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.549e+07
+[2024.11.08-20.51.06:891][938]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: dc8...33f Access[Expires: 2024.11.08-22.51.07 Remaining: 7200.51] Refresh[Expires: 2025-05-07T02:56:22.912Z Remaining: 15487515.91] State: Valid
+[2024.11.08-20.51.47:121][760]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.47:122][760]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.47:131][760]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.47:132][760]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.53:921][569]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.53:922][569]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.53:929][569]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.53:929][569]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.58:825][110]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.58:826][110]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.58:833][110]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.51.58:833][110]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.00:575][310]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.00:575][310]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.00:582][310]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.00:582][310]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.03:787][690]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-20.52.03:821][690]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.03:822][690]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.03:852][690]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.11.08-20.52.03:855][690]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.03:855][690]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.03:861][690]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.03:861][690]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.12:698][737]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.12:699][737]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.12:708][737]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.12:709][737]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.18:432][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.18:432][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.18:439][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.18:439][411]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.21:423][754]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.21:424][754]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.21:432][754]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.21:432][754]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.22:887][921]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.22:887][921]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.22:895][921]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.22:896][921]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.26:850][391]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-20.52.26:873][391]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.26:873][391]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.26:898][391]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.08-20.52.26:901][391]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.26:901][391]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.26:907][391]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.26:907][391]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.36:170][489]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.36:171][489]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.36:179][489]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.52.36:179][489]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.02:328][574]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.08-20.53.02:331][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto6
+[2024.11.08-20.53.02:332][574]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/DY1JYT47TNQMLBO6QJVLD4_Auto6A77814B14980F219D13E24B20001EC10.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto6.uasset'
+[2024.11.08-20.53.02:333][574]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2024.11.08-20.53.02:333][574]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2024.11.08-20.53.02:333][574]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Sorter] ([2] browsable assets)...
+[2024.11.08-20.53.02:333][574]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Sorter]
+[2024.11.08-20.53.02:369][574]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto6
+[2024.11.08-20.53.02:369][574]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Sorter_Auto6E900B5CF41D056E7D6D5118FA714D2A0.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto6.uasset'
+[2024.11.08-20.53.02:370][574]LogFileHelpers: Auto-saving content packages took 0.037
+[2024.11.08-20.53.50:655][365]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.50:656][365]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.50:667][365]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.50:667][365]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.55:723][966]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.55:723][966]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.55:731][966]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.55:731][966]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.59:034][341]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.59:035][341]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.59:043][341]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.53.59:043][341]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.00:358][494]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-20.54.00:380][494]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.00:380][494]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.00:405][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2024.11.08-20.54.00:407][494]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.00:408][494]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.00:415][494]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.00:415][494]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.14:052][120]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.14:053][120]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.14:064][120]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.14:064][120]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.21:541][  7]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.21:542][  7]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.21:550][  7]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.21:550][  7]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.28:893][883]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-20.54.28:917][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.28:918][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.28:947][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.11.08-20.54.28:949][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.28:950][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.28:959][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.28:959][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.54.30:161][ 15]LogDerivedDataCache: C:/Users/Ihsan Baleed/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.094 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 476 files in 876 folders with total size 8 MiB.
+[2024.11.08-20.54.58:763][427]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7337.031250
+[2024.11.08-20.54.58:922][446]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-20.54.58:922][446]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7337.180664, Update Interval: 309.466827
+[2024.11.08-20.55.36:440][930]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.55.36:441][930]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.55.38:534][174]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-20.55.38:552][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.55.38:552][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.55.38:577][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.08-20.55.38:580][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.55.38:580][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.55.38:584][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.55.38:584][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.12:162][117]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.12:163][117]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.12:170][117]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.12:170][117]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.35:921][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.35:922][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.35:927][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.35:928][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.38:084][216]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.38:085][216]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.38:094][216]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.38:094][216]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.41:383][605]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.41:383][605]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.41:390][605]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.56.41:390][605]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.57.01:000][796]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.57.01:001][796]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.57.55:800][201]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-20.57.55:819][201]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.57.55:819][201]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.57.55:847][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.22ms
+[2024.11.08-20.57.55:848][201]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.57.55:849][201]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.57.55:854][201]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.57.55:854][201]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.58.36:896][  8]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.58.36:897][  8]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.58.52:151][819]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-20.58.52:169][819]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.58.52:170][819]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.58.52:193][819]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2024.11.08-20.58.52:195][819]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.58.52:195][819]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.58.52:201][819]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.58.52:202][819]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.59.13:920][413]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-20.59.13:938][413]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.59.13:938][413]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.59.13:964][413]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.08-20.59.13:966][413]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.59.13:966][413]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.59.13:973][413]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-20.59.13:973][413]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.14:278][491]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.00.14:297][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.14:297][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.14:321][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.08-21.00.14:324][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.14:324][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.14:332][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.14:332][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.44:438][ 60]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.00.44:457][ 60]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.44:457][ 60]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.44:483][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2024.11.08-21.00.44:486][ 60]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.44:487][ 60]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.44:494][ 60]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.44:495][ 60]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.47:365][398]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7685.135742
+[2024.11.08-21.00.47:532][418]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-21.00.47:532][418]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7685.293457, Update Interval: 322.128967
+[2024.11.08-21.00.54:340][234]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.54:341][234]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.57:884][646]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.57:885][646]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.59:804][858]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.00.59:805][858]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.01.13:303][370]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.01.13:322][370]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.01.13:322][370]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.01.13:348][370]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.11.08-21.01.13:350][370]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.01.13:350][370]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.01.13:358][370]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.01.13:358][370]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.02.25:816][ 38]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.02.25:837][ 38]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.02.25:838][ 38]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.02.25:866][ 38]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.08-21.02.25:869][ 38]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.02.25:870][ 38]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.02.25:879][ 38]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.02.25:879][ 38]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.10:636][174]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.03.10:654][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.10:655][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.10:678][174]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.08-21.03.10:680][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.10:680][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.10:690][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.10:690][174]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.28:474][291]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.03.28:493][291]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.28:493][291]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.28:516][291]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.08-21.03.28:519][291]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.28:519][291]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.28:528][291]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.28:528][291]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.03.56:317][571]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.08-21.03.56:337][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto7
+[2024.11.08-21.03.56:338][571]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/DY1JYT47TNQMLBO6QJVLD4_Auto71B2AD28A4F028CD8B040DC9CC29D6E32.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto7.uasset'
+[2024.11.08-21.03.56:339][571]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.037
+[2024.11.08-21.03.56:339][571]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2024.11.08-21.03.56:339][571]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Sorter] ([2] browsable assets)...
+[2024.11.08-21.03.56:339][571]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Sorter]
+[2024.11.08-21.03.56:363][571]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto7
+[2024.11.08-21.03.56:363][571]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Sorter_Auto7768D7D354F9CC1D3C02550B9E4F0388C.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto7.uasset'
+[2024.11.08-21.03.56:364][571]LogFileHelpers: Auto-saving content packages took 0.024
+[2024.11.08-21.04.34:111][ 46]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.04.34:130][ 46]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.04.34:130][ 46]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.04.34:152][ 46]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.11.08-21.04.34:155][ 46]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.04.34:155][ 46]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.04.34:165][ 46]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.04.34:166][ 46]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.00:411][156]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.05.00:430][156]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.00:430][156]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.00:453][156]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.08-21.05.00:456][156]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.00:456][156]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.00:466][156]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.00:466][156]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.26:261][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.26:262][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.26:278][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.26:279][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.05.29:524][232]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.05.29:532][232]LogBlueprint: Error: [AssetLog] D:\UnReal Projects\UnReal\CubeWizard\Content\ThirdPerson\Blueprints\BP_Sorter.uasset: [Compiler] In use pin  Cubes Array  no longer exists on node  Partition . Please refresh node or break links to remove pin.
+[2024.11.08-21.05.29:581][232]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.08-21.05.52:383][602]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.05.52:390][602]LogBlueprint: Error: [AssetLog] D:\UnReal Projects\UnReal\CubeWizard\Content\ThirdPerson\Blueprints\BP_Sorter.uasset: [Compiler] In use pin  Cubes Array  no longer exists on node  Partition . Please refresh node or break links to remove pin.
+[2024.11.08-21.05.52:423][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.08-21.06.04:952][ 82]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.06.04:971][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.04:971][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.04:996][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.08-21.06.04:998][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.04:998][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.05:009][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.05:010][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.29:423][  2]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.29:423][  2]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.37:001][905]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.37:001][905]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.48:298][252]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8045.473145
+[2024.11.08-21.06.48:438][268]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-21.06.48:438][268]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8045.604004, Update Interval: 334.276550
+[2024.11.08-21.06.54:228][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.06.54:229][962]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.07.03:620][ 58]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.07.03:639][ 58]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.07.03:639][ 58]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.07.03:664][ 58]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.08-21.07.03:668][ 58]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.07.03:668][ 58]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.07.03:673][ 58]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.07.03:673][ 58]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.24:562][626]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.08.24:582][626]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.24:582][626]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.24:606][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.11.08-21.08.24:608][626]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.24:608][626]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.24:633][626]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.24:634][626]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.55:765][347]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.55:766][347]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.55:779][347]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.55:779][347]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.59:089][738]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.59:090][738]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.59:098][738]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.08.59:099][738]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.00:369][885]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.09.00:388][885]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.00:389][885]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.00:413][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.11.08-21.09.00:417][885]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.00:418][885]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.00:425][885]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.00:425][885]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.57:970][481]LogSlate: Window 'Change Variable Type' being destroyed
+[2024.11.08-21.09.57:977][481]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.57:978][481]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.59:608][660]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.09.59:627][660]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.59:628][660]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.59:654][660]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.08-21.09.59:657][660]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.59:657][660]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.59:663][660]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.09.59:663][660]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.10.51:018][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.10.51:019][805]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.10.57:089][520]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.10.57:090][520]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.10.59:547][801]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.10.59:548][801]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.00:906][956]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.11.00:926][956]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.00:926][956]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.00:950][956]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.08-21.11.00:952][956]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.00:953][956]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.00:959][956]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.00:959][956]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.34:117][798]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.11.34:137][798]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.34:137][798]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.34:161][798]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.08-21.11.34:163][798]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.34:163][798]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.34:170][798]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.34:170][798]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.47:905][381]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.47:906][381]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.57:358][508]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.57:358][508]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.59:660][778]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.11.59:661][778]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.16:777][812]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.12.16:797][812]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.16:797][812]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.16:823][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.08-21.12.16:826][812]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.16:826][812]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.16:833][812]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.16:833][812]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.51:327][829]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.12.51:350][829]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.51:350][829]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.51:379][829]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.11.08-21.12.51:381][829]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.51:381][829]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.51:391][829]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.12.51:391][829]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.06:024][536]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8424.307617
+[2024.11.08-21.13.06:183][555]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-21.13.06:183][555]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8424.458008, Update Interval: 325.324249
+[2024.11.08-21.13.10:911][116]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.13.10:932][116]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.10:932][116]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.10:956][116]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.08-21.13.10:959][116]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.10:959][116]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.10:967][116]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.10:967][116]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.17:123][841]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.13.17:144][841]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.17:144][841]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.17:170][841]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.08-21.13.17:173][841]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.17:173][841]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.17:181][841]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.13.17:181][841]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.14.07:558][364]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.08-21.14.07:561][364]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto8
+[2024.11.08-21.14.07:562][364]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/DY1JYT47TNQMLBO6QJVLD4_Auto86AAA38F8464D362E733C319F5C5A3BD0.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto8.uasset'
+[2024.11.08-21.14.07:563][364]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.020
+[2024.11.08-21.14.07:563][364]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.020
+[2024.11.08-21.14.07:563][364]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Sorter] ([2] browsable assets)...
+[2024.11.08-21.14.07:563][364]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Sorter]
+[2024.11.08-21.14.07:601][364]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto8
+[2024.11.08-21.14.07:602][364]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Sorter_Auto8500EDB524CD0459986825E896A9D2CFC.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto8.uasset'
+[2024.11.08-21.14.07:602][364]LogFileHelpers: Auto-saving content packages took 0.039
+[2024.11.08-21.14.30:589][187]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.14.30:609][187]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.14.30:609][187]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.14.30:633][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.11.08-21.14.30:635][187]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.14.30:635][187]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.14.30:643][187]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.14.30:644][187]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.14:456][259]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.15.14:477][259]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.14:477][259]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.14:503][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.11.08-21.15.14:505][259]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.14:505][259]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.14:514][259]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.14:514][259]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.26:189][649]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.15.26:210][649]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.26:210][649]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.26:234][649]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.08-21.15.26:237][649]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.26:237][649]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.26:246][649]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.15.26:246][649]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.43:456][788]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.16.43:477][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.43:477][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.43:501][788]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.08-21.16.43:503][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.43:503][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.43:513][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.43:513][788]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.57:075][379]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.16.57:096][379]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.57:096][379]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.57:119][379]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.11.08-21.16.57:122][379]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.57:122][379]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.57:132][379]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.16.57:133][379]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.05:214][510]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.18.05:235][510]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.05:235][510]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.05:259][510]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.08-21.18.05:263][510]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.05:263][510]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.05:273][510]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.05:274][510]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.13:530][491]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.18.13:551][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.13:552][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.13:575][491]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.08-21.18.13:578][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.13:578][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.13:589][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.13:589][491]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.49:748][681]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.18.49:769][681]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.49:769][681]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.49:793][681]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.08-21.18.49:795][681]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.49:795][681]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.49:806][681]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.18.49:806][681]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.17:425][942]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.19.17:445][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.17:445][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.17:471][942]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.08-21.19.17:474][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.17:474][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.17:486][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.17:486][942]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.23:086][591]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8803.878906
+[2024.11.08-21.19.23:130][596]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.19.23:151][596]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.23:151][596]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.23:177][596]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.08-21.19.23:180][596]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.23:180][596]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.23:191][596]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.23:192][596]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.23:268][598]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-21.19.23:268][598]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8804.038086, Update Interval: 302.684418
+[2024.11.08-21.19.44:057][ 82]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.19.44:078][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.44:078][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.44:105][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2024.11.08-21.19.44:108][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.44:108][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.44:119][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.19.44:120][ 82]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.20.14:479][649]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.20.14:480][649]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.20.27:796][198]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.20.27:818][198]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.20.27:818][198]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.20.27:845][198]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.08-21.20.27:847][198]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.20.27:847][198]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.20.27:859][198]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.20.27:859][198]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.27:631][319]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.21.27:653][319]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.27:653][319]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.27:678][319]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.08-21.21.27:681][319]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.27:681][319]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.27:710][319]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.27:710][319]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.44:802][340]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.21.44:829][340]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.44:829][340]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.44:854][340]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2024.11.08-21.21.44:858][340]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.44:858][340]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.44:871][340]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.44:871][340]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.50:793][ 42]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.21.50:793][ 42]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.22.05:292][747]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.22.05:315][747]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.22.05:315][747]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.22.05:340][747]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.08-21.22.05:343][747]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.22.05:343][747]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.22.05:357][747]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.22.05:357][747]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.23.22:084][925]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.23.22:107][925]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.23.22:107][925]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.23.22:136][925]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.08-21.23.22:139][925]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.23.22:139][925]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.23.22:168][925]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.23.22:169][925]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.00:742][704]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9143.941406
+[2024.11.08-21.25.00:892][722]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-21.25.00:892][722]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9144.084961, Update Interval: 342.013000
+[2024.11.08-21.25.10:708][899]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.25.10:732][899]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.10:732][899]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.10:756][899]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2024.11.08-21.25.10:760][899]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.10:761][899]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.10:790][899]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.10:791][899]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.54:819][144]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.25.54:843][144]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.54:843][144]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.54:873][144]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2024.11.08-21.25.54:878][144]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.54:878][144]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.54:891][144]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.25.54:892][144]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.09:534][883]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.26.09:557][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.09:557][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.09:582][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.08-21.26.09:585][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.09:586][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.09:600][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.09:600][883]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.27:577][ 30]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.26.27:600][ 30]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.27:600][ 30]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.27:625][ 30]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.08-21.26.27:628][ 30]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.27:629][ 30]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.27:642][ 30]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.26.27:643][ 30]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.27.10:656][183]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.27.10:679][183]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.27.10:679][183]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.27.10:706][183]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.11.08-21.27.10:709][183]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.27.10:709][183]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.27.10:722][183]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.27.10:723][183]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.17:563][191]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.17:563][191]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.37:686][541]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.28.37:710][541]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.37:710][541]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.37:737][541]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.11.08-21.28.37:739][541]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.37:740][541]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.37:761][541]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.37:762][541]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.54:066][432]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.28.54:090][432]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.54:090][432]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.54:114][432]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.08-21.28.54:116][432]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.54:116][432]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.54:131][432]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.28.54:132][432]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.29.42:108][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.11.08-21.29.42:119][131]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto9
+[2024.11.08-21.29.42:119][131]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/DY1JYT47TNQMLBO6QJVLD4_Auto9C0181D8A4CCB437124F9D08711DE6753.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto9.uasset'
+[2024.11.08-21.29.42:121][131]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.030
+[2024.11.08-21.29.42:121][131]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.030
+[2024.11.08-21.29.42:121][131]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Sorter] ([2] browsable assets)...
+[2024.11.08-21.29.42:121][131]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Sorter]
+[2024.11.08-21.29.42:151][131]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto9
+[2024.11.08-21.29.42:151][131]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Sorter_Auto9A658BC8E42C3E29DB982BE8FFB9F01EF.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_Sorter_Auto9.uasset'
+[2024.11.08-21.29.42:152][131]LogFileHelpers: Auto-saving content packages took 0.031
+[2024.11.08-21.30.10:618][520]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.30.10:643][520]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.10:643][520]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.10:669][520]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.08-21.30.10:673][520]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.10:673][520]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.10:688][520]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.10:688][520]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.25:284][248]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.30.25:308][248]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.25:308][248]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.25:335][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.08-21.30.25:339][248]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.25:339][248]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.25:354][248]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.25:354][248]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.45:577][639]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.30.45:602][639]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.45:602][639]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.45:627][639]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.08-21.30.45:631][639]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.45:631][639]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.45:647][639]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.45:647][639]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.58:519][126]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.30.58:543][126]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.58:543][126]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.58:568][126]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.08-21.30.58:571][126]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.58:571][126]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.58:603][126]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.30.58:603][126]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.31.33:118][256]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9538.875977
+[2024.11.08-21.31.33:251][272]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-21.31.33:251][272]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9539.000000, Update Interval: 319.979248
+[2024.11.08-21.31.57:409][ 93]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.31.57:433][ 93]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.31.57:433][ 93]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.31.57:458][ 93]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.08-21.31.57:459][ 93]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.31.57:460][ 93]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.31.57:483][ 93]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.31.57:484][ 93]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.21:733][973]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.32.21:757][973]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.21:757][973]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.21:783][973]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.08-21.32.21:787][973]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.21:787][973]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.21:800][973]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.21:800][973]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.29:199][847]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.32.29:223][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.29:223][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.29:250][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.11.08-21.32.29:253][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.29:254][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.29:266][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.29:266][847]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.32.30:070][936]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-21.32.30:075][936]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-21.32.30:075][936]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-21.32.30:076][936]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 846 us (total: 14 ms)
+[2024.11.08-21.32.30:076][936]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-21.32.30:076][936]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 21:32:30)
+[2024.11.08-21.32.30:076][936]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.32.30:078][936]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002319s)
+[2024.11.08-21.32.30:079][936]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.002379s)
+[2024.11.08-21.32.30:092][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.08-21.32.30:095][936]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-21.32.30:095][936]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-21.32.30:095][936]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-21.32.30:096][936]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-21.32.30:096][936]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-21.32.30:096][936]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-21.32.30:096][936]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-21.32.30:097][936]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-21.32.30:097][936]LogWorldPartition: Display: WorldPartition initialize took 554 us (total: 151 ms)
+[2024.11.08-21.32.30:097][936]LogPlayLevel: PIE: World Init took: (0.002117s)
+[2024.11.08-21.32.30:097][936]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2024.11.08-21.32.30:097][936]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-21.32.30:097][936]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-21.32.30:097][936]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-21.32.30:097][936]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-21.32.30:097][936]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-21.32.30:097][936]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-21.32.30:097][936]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-21.32.30:097][936]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-21.32.30:098][936]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-21.32.30:098][936]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-21.32.30:098][936]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-21.32.30:100][936]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-21.32.30:144][936]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2024.11.08-21.32.30:145][936]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-21.32.30:145][936]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-21.32.30:145][936]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-21.32.30:146][936]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2024.11.08-21.32.30:146][936]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=17
+[2024.11.08-21.32.30:148][936]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2024.11.08-21.32.30:148][936]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2024.11.08-21.32.30:148][936]LogInit: FAudioDevice initialized with ID 17.
+[2024.11.08-21.32.30:148][936]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonMap'.
+[2024.11.08-21.32.30:148][936]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 17
+[2024.11.08-21.32.30:181][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.32.30:182][936]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-21.32.30:183][936]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-21.32.30
+[2024.11.08-21.32.30:183][936]LogWorld: Bringing up level for play took: 0.001294
+[2024.11.08-21.32.30:186][936]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2024.11.08-21.32.30:196][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 117
+[2024.11.08-21.32.30:197][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+
+[2024.11.08-21.32.30:208][936]LogViewport: Scene viewport resized to 2554x1360, mode Windowed.
+[2024.11.08-21.32.37:698][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.32.37:698][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.33.04:896][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.33.04:896][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.33.06:278][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.33.06:278][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.33.06:732][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.33.06:732][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.33.07:241][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.33.07:241][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.33.07:672][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.33.07:672][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.33.08:105][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.33.08:105][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.33.08:533][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.33.08:534][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.33.08:966][936]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.33.08:966][936]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.33.11:112][936]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter without an associated node. The blueprint breakpoint has been removed
+[2024.11.08-21.33.11:112][936]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter without an associated node. The blueprint breakpoint has been removed
+[2024.11.08-21.33.12:002][936]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Sorter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_InsertionSort_C_UAID_B06EBF2C981BE62C02_1356644439
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:Partition:0000
+[2024.11.08-21.33.12:002][936]PIE: Error: Infinite loop detected. Blueprint:  BP_Sorter Function:  Partition Call Stack:  Show
+[2024.11.08-21.33.12:003][936]PIE: Server logged in
+[2024.11.08-21.33.12:006][936]PIE: Play in editor total start time 41.932 seconds.
+[2024.11.08-21.33.12:048][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.33.12:048][936]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.33.12:048][936]LogSlate: Window 'CubeWizard Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.08-21.33.12:073][936]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-21.33.12:074][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.33.12:074][936]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-21.33.12:099][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-21.33.12:103][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.33.12:118][936]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.08-21.33.12:119][936]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.11.08-21.33.12:119][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.11.08-21.33.12:120][936]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.11.08-21.33.12:132][936]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.08-21.33.12:287][937]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2024.11.08-21.33.20:477][873]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.08-21.33.20:482][873]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.08-21.33.22:810][114]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.08-21.33.22:815][114]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.08-21.33.23:800][231]LogSlate: Window 'Message Log' being destroyed
+[2024.11.08-21.33.23:805][231]LogSlate: Window 'Message Log' being destroyed
+[2024.11.08-21.33.26:526][555]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.33.26:553][555]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.26:554][555]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.26:581][555]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.08-21.33.26:584][555]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.26:584][555]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.26:610][555]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.26:610][555]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.41:447][308]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.33.41:471][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.41:471][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.41:496][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.08-21.33.41:499][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.41:500][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.41:539][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.33.41:540][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.34.01:242][663]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.34.01:266][663]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.34.01:266][663]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.34.01:292][663]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.08-21.34.01:296][663]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.34.01:296][663]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.34.01:307][663]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.34.01:308][663]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.34.02:417][789]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-21.34.02:422][789]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-21.34.02:422][789]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-21.34.02:423][789]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 803 us (total: 15 ms)
+[2024.11.08-21.34.02:423][789]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-21.34.02:423][789]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 21:34:02)
+[2024.11.08-21.34.02:423][789]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.34.02:424][789]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001646s)
+[2024.11.08-21.34.02:425][789]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001674s)
+[2024.11.08-21.34.02:437][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.08-21.34.02:439][789]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-21.34.02:439][789]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-21.34.02:440][789]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-21.34.02:440][789]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-21.34.02:440][789]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-21.34.02:440][789]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-21.34.02:440][789]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-21.34.02:441][789]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-21.34.02:441][789]LogWorldPartition: Display: WorldPartition initialize took 511 us (total: 152 ms)
+[2024.11.08-21.34.02:441][789]LogPlayLevel: PIE: World Init took: (0.001523s)
+[2024.11.08-21.34.02:441][789]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.11.08-21.34.02:441][789]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-21.34.02:441][789]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-21.34.02:441][789]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-21.34.02:441][789]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-21.34.02:441][789]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-21.34.02:441][789]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-21.34.02:441][789]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-21.34.02:441][789]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-21.34.02:441][789]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-21.34.02:441][789]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-21.34.02:441][789]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-21.34.02:443][789]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-21.34.02:479][789]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2024.11.08-21.34.02:479][789]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-21.34.02:479][789]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-21.34.02:479][789]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-21.34.02:481][789]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.11.08-21.34.02:481][789]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=18
+[2024.11.08-21.34.02:482][789]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.11.08-21.34.02:482][789]LogInit: FAudioDevice initialized with ID 18.
+[2024.11.08-21.34.02:482][789]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.11.08-21.34.02:482][789]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonMap'.
+[2024.11.08-21.34.02:482][789]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.11.08-21.34.02:513][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.34.02:513][789]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-21.34.02:514][789]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-21.34.02
+[2024.11.08-21.34.02:514][789]LogWorld: Bringing up level for play took: 0.000743
+[2024.11.08-21.34.02:517][789]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2024.11.08-21.34.02:523][789]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 117
+[2024.11.08-21.34.02:523][789]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+
+[2024.11.08-21.34.02:536][789]LogViewport: Scene viewport resized to 2554x1360, mode Windowed.
+[2024.11.08-21.34.04:290][789]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 142
+[2024.11.08-21.34.04:290][789]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.34.50:459][789]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.34.50:459][789]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.34.58:877][789]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Sorter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_InsertionSort_C_UAID_B06EBF2C981BE62C02_1356644439
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:Partition:0000
+[2024.11.08-21.34.58:878][789]PIE: Error: Infinite loop detected. Blueprint:  BP_Sorter Function:  Partition Call Stack:  Show
+[2024.11.08-21.34.58:879][789]PIE: Server logged in
+[2024.11.08-21.34.58:882][789]PIE: Play in editor total start time 56.46 seconds.
+[2024.11.08-21.34.58:908][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.34.58:908][789]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.34.58:908][789]LogSlate: Window 'CubeWizard Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.08-21.34.58:945][789]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-21.34.58:945][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.34.58:945][789]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-21.34.58:971][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-21.34.58:977][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.34.58:995][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.08-21.34.58:995][789]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.11.08-21.34.58:995][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.11.08-21.34.58:998][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.11.08-21.34.59:006][789]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.11.08-21.34.59:154][790]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2024.11.08-21.35.00:263][902]LogSlate: Window 'Message Log' being destroyed
+[2024.11.08-21.35.00:270][902]LogSlate: Window 'Message Log' being destroyed
+[2024.11.08-21.35.09:541][ 14]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.35.09:565][ 14]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.35.09:565][ 14]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.35.09:589][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.11.08-21.35.09:591][ 14]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.35.09:592][ 14]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.35.09:603][ 14]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.35.09:603][ 14]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.35.14:939][642]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-21.35.14:944][642]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-21.35.14:944][642]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-21.35.14:945][642]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 797 us (total: 16 ms)
+[2024.11.08-21.35.14:945][642]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-21.35.14:945][642]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 21:35:14)
+[2024.11.08-21.35.14:945][642]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.35.14:946][642]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001565s)
+[2024.11.08-21.35.14:946][642]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001589s)
+[2024.11.08-21.35.14:962][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2024.11.08-21.35.14:964][642]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-21.35.14:964][642]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-21.35.14:965][642]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-21.35.14:965][642]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-21.35.14:965][642]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-21.35.14:965][642]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-21.35.14:965][642]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-21.35.14:966][642]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-21.35.14:966][642]LogWorldPartition: Display: WorldPartition initialize took 506 us (total: 152 ms)
+[2024.11.08-21.35.14:966][642]LogPlayLevel: PIE: World Init took: (0.001540s)
+[2024.11.08-21.35.14:966][642]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2024.11.08-21.35.14:966][642]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-21.35.14:966][642]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-21.35.14:966][642]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-21.35.14:966][642]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-21.35.14:966][642]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-21.35.14:966][642]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-21.35.14:966][642]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-21.35.14:966][642]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-21.35.14:966][642]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-21.35.14:966][642]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-21.35.14:966][642]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-21.35.14:968][642]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-21.35.14:998][642]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2024.11.08-21.35.14:998][642]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-21.35.14:998][642]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-21.35.14:998][642]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-21.35.14:998][642]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2024.11.08-21.35.14:998][642]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=19
+[2024.11.08-21.35.15:001][642]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2024.11.08-21.35.15:001][642]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2024.11.08-21.35.15:001][642]LogInit: FAudioDevice initialized with ID 19.
+[2024.11.08-21.35.15:001][642]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonMap'.
+[2024.11.08-21.35.15:001][642]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 19
+[2024.11.08-21.35.15:028][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.35.15:028][642]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-21.35.15:029][642]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-21.35.15
+[2024.11.08-21.35.15:029][642]LogWorld: Bringing up level for play took: 0.000806
+[2024.11.08-21.35.15:032][642]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2024.11.08-21.35.15:038][642]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 117
+[2024.11.08-21.35.15:038][642]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+
+[2024.11.08-21.35.15:049][642]LogViewport: Scene viewport resized to 2554x1360, mode Windowed.
+[2024.11.08-21.35.16:638][642]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.35.16:638][642]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.35.19:546][642]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 142
+[2024.11.08-21.35.19:546][642]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.36.20:265][642]LogScript: Warning: Infinite script recursion (120 calls) detected - see log for stack trace
+	BP_Sorter_C /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_InsertionSort_C_UAID_B06EBF2C981BE62C02_1356644439
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:Partition:0000
+[2024.11.08-21.36.20:265][642]PIE: Error: Infinite loop detected. Blueprint:  BP_Sorter Function:  Partition Call Stack:  Show
+[2024.11.08-21.36.20:266][642]PIE: Server logged in
+[2024.11.08-21.36.20:269][642]PIE: Play in editor total start time 65.326 seconds.
+[2024.11.08-21.36.20:308][642]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.36.20:308][642]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.36.20:308][642]LogSlate: Window 'CubeWizard Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.08-21.36.20:331][642]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-21.36.20:332][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.36.20:332][642]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-21.36.20:358][642]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-21.36.20:362][642]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.36.20:380][642]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.08-21.36.20:381][642]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 19
+[2024.11.08-21.36.20:381][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.11.08-21.36.20:382][642]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2024.11.08-21.36.20:391][642]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.11.08-21.36.20:522][643]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2024.11.08-21.36.21:640][755]LogSlate: Window 'Message Log' being destroyed
+[2024.11.08-21.36.21:645][755]LogSlate: Window 'Message Log' being destroyed
+[2024.11.08-21.36.27:108][388]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.36.27:122][388]LogBlueprint: Warning: [AssetLog] D:\UnReal Projects\UnReal\CubeWizard\Content\ThirdPerson\Blueprints\BP_Sorter.uasset: [Compiler] Set Pivot  was pruned because its Exec pin is not connected, the connected value is not available and will instead be read as default
+[2024.11.08-21.36.27:139][388]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.27:139][388]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.27:163][388]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.08-21.36.27:165][388]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.27:166][388]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.27:177][388]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.27:177][388]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.37:051][562]LogEditorTransaction: Undo Move Node
+[2024.11.08-21.36.37:053][562]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.37:054][562]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.37:886][619]LogEditorTransaction: Undo Create Pin Link
+[2024.11.08-21.36.37:899][619]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.37:900][619]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.45:111][460]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.36.45:135][460]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.45:135][460]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.45:163][460]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.08-21.36.45:166][460]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.45:166][460]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.45:178][460]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.45:178][460]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.56:847][850]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.36.56:870][850]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.56:870][850]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.56:897][850]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.08-21.36.56:899][850]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.56:900][850]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.56:911][850]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.56:912][850]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.36.58:462][ 26]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-21.36.58:467][ 26]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-21.36.58:467][ 26]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-21.36.58:468][ 26]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 769 us (total: 17 ms)
+[2024.11.08-21.36.58:468][ 26]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-21.36.58:468][ 26]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 21:36:58)
+[2024.11.08-21.36.58:468][ 26]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.36.58:470][ 26]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001619s)
+[2024.11.08-21.36.58:470][ 26]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001650s)
+[2024.11.08-21.36.58:484][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.08-21.36.58:486][ 26]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-21.36.58:486][ 26]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-21.36.58:487][ 26]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-21.36.58:487][ 26]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-21.36.58:487][ 26]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-21.36.58:487][ 26]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-21.36.58:487][ 26]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-21.36.58:488][ 26]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-21.36.58:488][ 26]LogWorldPartition: Display: WorldPartition initialize took 511 us (total: 153 ms)
+[2024.11.08-21.36.58:488][ 26]LogPlayLevel: PIE: World Init took: (0.001573s)
+[2024.11.08-21.36.58:488][ 26]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2024.11.08-21.36.58:488][ 26]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-21.36.58:488][ 26]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-21.36.58:488][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-21.36.58:488][ 26]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-21.36.58:488][ 26]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-21.36.58:488][ 26]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-21.36.58:488][ 26]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-21.36.58:488][ 26]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-21.36.58:488][ 26]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-21.36.58:488][ 26]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-21.36.58:488][ 26]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-21.36.58:490][ 26]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-21.36.58:520][ 26]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2024.11.08-21.36.58:520][ 26]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-21.36.58:520][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-21.36.58:520][ 26]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-21.36.58:521][ 26]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2024.11.08-21.36.58:521][ 26]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=20
+[2024.11.08-21.36.58:523][ 26]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2024.11.08-21.36.58:523][ 26]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2024.11.08-21.36.58:523][ 26]LogInit: FAudioDevice initialized with ID 20.
+[2024.11.08-21.36.58:523][ 26]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonMap'.
+[2024.11.08-21.36.58:523][ 26]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 20
+[2024.11.08-21.36.58:554][ 26]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.36.58:554][ 26]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-21.36.58:555][ 26]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-21.36.58
+[2024.11.08-21.36.58:556][ 26]LogWorld: Bringing up level for play took: 0.000775
+[2024.11.08-21.36.58:558][ 26]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2024.11.08-21.36.58:563][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 117
+[2024.11.08-21.36.58:563][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+
+[2024.11.08-21.36.58:573][ 26]LogViewport: Scene viewport resized to 2554x1360, mode Windowed.
+[2024.11.08-21.37.05:158][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.05:158][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.09:250][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 171
+[2024.11.08-21.37.09:250][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.14:865][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.14:866][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.15:785][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 171
+[2024.11.08-21.37.15:785][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.16:382][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.16:382][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.16:828][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 171
+[2024.11.08-21.37.16:828][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.17:501][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.17:501][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.18:096][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 171
+[2024.11.08-21.37.18:096][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.18:652][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.18:652][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.19:032][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.19:032][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.19:812][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.19:813][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.20:235][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 171
+[2024.11.08-21.37.20:235][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.20:862][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.20:862][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.21:304][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_QuickSort', from offset 171
+[2024.11.08-21.37.21:304][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.21:787][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.21:787][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.22:221][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.22:221][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.22:823][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.22:823][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.23:210][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.23:210][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.23:568][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_FunctionEntry', from offset 0
+[2024.11.08-21.37.23:568][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:QuickSort
+
+[2024.11.08-21.37.23:925][ 26]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Delay', from offset 15
+[2024.11.08-21.37.23:925][ 26]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+
+[2024.11.08-21.37.24:417][ 26]PIE: Server logged in
+[2024.11.08-21.37.24:420][ 26]PIE: Play in editor total start time 25.953 seconds.
+[2024.11.08-21.37.26:126][156]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 9892.466797
+[2024.11.08-21.37.26:291][169]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-21.37.26:291][169]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 9892.619141, Update Interval: 358.044373
+[2024.11.08-21.37.32:338][626]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.37.32:338][626]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.37.32:339][626]LogSlate: Window 'CubeWizard Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.08-21.37.32:340][626]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-21.37.32:341][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.37.32:341][626]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-21.37.32:361][626]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-21.37.32:365][626]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.37.32:383][626]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.08-21.37.32:383][626]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 20
+[2024.11.08-21.37.32:383][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.11.08-21.37.32:385][626]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2024.11.08-21.37.32:392][626]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.08-21.37.32:460][627]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2024.11.08-21.37.36:300][ 84]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter without an associated node. The blueprint breakpoint has been removed
+[2024.11.08-21.37.36:300][ 84]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter without an associated node. The blueprint breakpoint has been removed
+[2024.11.08-21.37.37:681][243]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter without an associated node. The blueprint breakpoint has been removed
+[2024.11.08-21.37.37:681][243]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter without an associated node. The blueprint breakpoint has been removed
+[2024.11.08-21.37.38:865][384]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter without an associated node. The blueprint breakpoint has been removed
+[2024.11.08-21.37.38:865][384]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter without an associated node. The blueprint breakpoint has been removed
+[2024.11.08-21.37.39:781][493]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.37.39:805][493]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.37.39:805][493]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.37.39:832][493]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.08-21.37.39:834][493]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.37.39:835][493]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.37.39:857][493]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.37.39:857][493]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.37.44:002][970]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-21.37.44:007][970]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-21.37.44:007][970]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-21.37.44:008][970]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 959 us (total: 17 ms)
+[2024.11.08-21.37.44:008][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-21.37.44:008][970]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 21:37:44)
+[2024.11.08-21.37.44:008][970]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.37.44:010][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001546s)
+[2024.11.08-21.37.44:010][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001573s)
+[2024.11.08-21.37.44:025][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.08-21.37.44:027][970]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-21.37.44:027][970]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-21.37.44:028][970]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-21.37.44:028][970]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-21.37.44:028][970]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-21.37.44:028][970]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-21.37.44:029][970]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-21.37.44:029][970]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-21.37.44:029][970]LogWorldPartition: Display: WorldPartition initialize took 519 us (total: 153 ms)
+[2024.11.08-21.37.44:029][970]LogPlayLevel: PIE: World Init took: (0.001696s)
+[2024.11.08-21.37.44:029][970]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2024.11.08-21.37.44:029][970]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-21.37.44:029][970]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-21.37.44:029][970]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-21.37.44:029][970]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-21.37.44:029][970]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-21.37.44:029][970]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-21.37.44:029][970]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-21.37.44:029][970]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-21.37.44:030][970]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-21.37.44:030][970]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-21.37.44:030][970]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-21.37.44:032][970]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-21.37.44:061][970]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2024.11.08-21.37.44:061][970]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-21.37.44:061][970]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-21.37.44:061][970]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-21.37.44:062][970]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2024.11.08-21.37.44:062][970]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=21
+[2024.11.08-21.37.44:064][970]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2024.11.08-21.37.44:064][970]LogInit: FAudioDevice initialized with ID 21.
+[2024.11.08-21.37.44:064][970]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2024.11.08-21.37.44:064][970]LogAudio: Display: Audio Device (ID: 21) registered with world 'ThirdPersonMap'.
+[2024.11.08-21.37.44:064][970]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2024.11.08-21.37.44:094][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.37.44:094][970]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-21.37.44:095][970]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-21.37.44
+[2024.11.08-21.37.44:096][970]LogWorld: Bringing up level for play took: 0.000827
+[2024.11.08-21.37.44:098][970]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2024.11.08-21.37.44:105][970]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Delay', from offset 15
+[2024.11.08-21.37.44:105][970]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay
+	Function /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ExecuteUbergraph_BP_Sorter
+
+[2024.11.08-21.37.44:116][970]LogViewport: Scene viewport resized to 2554x1360, mode Windowed.
+[2024.11.08-21.38.15:418][970]PIE: Server logged in
+[2024.11.08-21.38.15:420][970]PIE: Play in editor total start time 31.414 seconds.
+[2024.11.08-21.38.15:468][970]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-21.38.15:468][970]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-21.38.15:468][970]LogSlate: Window 'CubeWizard Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.08-21.38.15:483][970]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-21.38.15:483][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.38.15:483][970]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-21.38.15:526][970]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-21.38.15:531][970]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-21.38.15:553][970]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.08-21.38.15:554][970]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2024.11.08-21.38.15:554][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.11.08-21.38.15:556][970]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2024.11.08-21.38.15:564][970]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2024.11.08-21.38.15:650][971]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2024.11.08-21.38.16:957][126]LogSlate: Window 'Blueprint Debugger' being destroyed
+[2024.11.08-21.38.16:963][126]LogSlate: Window 'Blueprint Debugger' being destroyed
+[2024.11.08-21.38.23:000][848]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-21.38.23:024][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.38.23:024][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.38.23:049][848]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2024.11.08-21.38.23:052][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.38.23:052][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.38.23:065][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-21.38.23:065][848]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
