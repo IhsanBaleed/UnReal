@@ -7145,3 +7145,418 @@ Script call stack:
 [2024.11.08-02.42.38:162][204]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6285.072754
 [2024.11.08-02.42.38:296][218]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2024.11.08-02.42.38:296][218]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6285.197754, Update Interval: 305.315704
+[2024.11.08-02.45.32:963][887]LogContentBrowser: Attempting asset rename: BP_InsertionSort -> BP_Sorter
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter:InsertionSort.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter:PopulateCubes.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.SKEL_BP_Sorter_C' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter:ConstructSpawner.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter:ConstructSpawner.K2Node_FunctionResult_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter:ConstructMover.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ShowAlgorithmText' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.SKEL_BP_Sorter_C:ShowAlgorithmText' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.SKEL_BP_Sorter_C:UserConstructionScript' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.SKEL_BP_Sorter_C:ReceiveBeginPlay' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:689][887]LogMetaData: Removing '/Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter:ShowAlgorithmText.K2Node_FunctionEntry_0' ref from Metadata '/Game/ThirdPerson/Blueprints/BP_InsertionSort.PackageMetaData'
+[2024.11.08-02.45.33:713][887]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-02.45.33:738][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Sorter" FILE="../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Sorter.uasset" SILENT=true
+[2024.11.08-02.45.33:762][887]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Sorter
+[2024.11.08-02.45.33:762][887]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_SorterCEE1B88B4C81024E78F799A879583F75.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Sorter.uasset'
+[2024.11.08-02.45.33:772][887]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_InsertionSort" FILE="../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_InsertionSort.uasset" SILENT=true
+[2024.11.08-02.45.33:772][887]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_InsertionSort
+[2024.11.08-02.45.33:773][887]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_InsertionSort2C3ADDE34147606055C59DA143C00F8A.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_InsertionSort.uasset'
+[2024.11.08-02.45.33:966][887]LogFileHelpers: InternalPromptForCheckoutAndSave took 253 ms (total: 957 ms)
+[2024.11.08-02.45.34:181][887]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.08-02.45.34:182][887]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter
+[2024.11.08-02.45.34:182][887]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_InsertionSort.BP_InsertionSort
+[2024.11.08-02.45.34:182][887]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_InsertionSort.BP_InsertionSort_C
+[2024.11.08-02.45.34:182][887]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/ThirdPerson/Blueprints/BP_InsertionSort.Default__BP_InsertionSort_C
+[2024.11.08-02.45.36:037][ 94]BlueprintLog: New page: Compile BP_Sorter
+[2024.11.08-02.45.36:060][ 94]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.36:060][ 94]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.36:084][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.08-02.45.36:089][ 94]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.36:089][ 94]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.36:099][ 94]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.36:099][ 94]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.37:217][221]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-02.45.37:221][221]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-02.45.37:221][221]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-02.45.37:222][221]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 832 us (total: 45 ms)
+[2024.11.08-02.45.37:222][221]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.11.08-02.45.37:265][221]LogPlayLevel: [PlayLevel] Compiling BP_Cube before play...
+[2024.11.08-02.45.37:288][221]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.37:288][221]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.37:303][221]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.37:304][221]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.37:308][221]LogPlayLevel: [PlayLevel] Compiling BP_Mover before play...
+[2024.11.08-02.45.37:343][221]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.37:343][221]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.37:349][221]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.37:350][221]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.45.37:370][221]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2024.11.08-02.45.37:373][221]LogPlayLevel: PlayLevel: Blueprint regeneration took 150 ms (2 blueprints)
+[2024.11.08-02.45.37:373][221]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 02:45:37)
+[2024.11.08-02.45.37:373][221]LogPlayLevel: Display: Creating online subsystem for client :Context_40
+[2024.11.08-02.45.37:376][221]LogOnline: OSS: Created online subsystem instance for: :Context_40
+[2024.11.08-02.45.37:416][222]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-02.45.37:418][222]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001811s)
+[2024.11.08-02.45.37:418][222]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001857s)
+[2024.11.08-02.45.37:431][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2024.11.08-02.45.37:432][222]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-02.45.37:432][222]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-02.45.37:433][222]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-02.45.37:433][222]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-02.45.37:433][222]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-02.45.37:433][222]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-02.45.37:433][222]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-02.45.37:434][222]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-02.45.37:434][222]LogWorldPartition: Display: WorldPartition initialize took 522 us (total: 131 ms)
+[2024.11.08-02.45.37:434][222]LogPlayLevel: PIE: World Init took: (0.001731s)
+[2024.11.08-02.45.37:434][222]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2024.11.08-02.45.37:434][222]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-02.45.37:434][222]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-02.45.37:434][222]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-02.45.37:434][222]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-02.45.37:434][222]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-02.45.37:434][222]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-02.45.37:434][222]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-02.45.37:434][222]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-02.45.37:435][222]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-02.45.37:435][222]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-02.45.37:435][222]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-02.45.37:437][222]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-02.45.37:476][222]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2024.11.08-02.45.37:476][222]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-02.45.37:476][222]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-02.45.37:476][222]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-02.45.37:477][222]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2024.11.08-02.45.37:477][222]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=31
+[2024.11.08-02.45.37:479][222]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2024.11.08-02.45.37:479][222]LogInit: FAudioDevice initialized with ID 31.
+[2024.11.08-02.45.37:479][222]LogAudio: Display: Audio Device (ID: 31) registered with world 'ThirdPersonMap'.
+[2024.11.08-02.45.37:479][222]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2024.11.08-02.45.37:479][222]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2024.11.08-02.45.37:511][222]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-02.45.37:512][222]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-02.45.37:513][222]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-02.45.37
+[2024.11.08-02.45.37:513][222]LogWorld: Bringing up level for play took: 0.000912
+[2024.11.08-02.45.37:522][222]PIE: Server logged in
+[2024.11.08-02.45.37:523][222]PIE: Play in editor total start time 0.301 seconds.
+[2024.11.08-02.45.37:602][222]LogViewport: Scene viewport resized to 2554x1360, mode Windowed.
+[2024.11.08-02.47.07:528][193]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-02.47.07:528][193]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-02.47.07:528][193]LogSlate: Window 'CubeWizard Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.08-02.47.07:533][193]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-02.47.07:533][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-02.47.07:533][193]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-02.47.07:547][193]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-02.47.07:552][193]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-02.47.07:568][193]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2024.11.08-02.47.07:568][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.11.08-02.47.07:570][193]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2024.11.08-02.47.07:577][193]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2024.11.08-02.47.07:643][194]LogPlayLevel: Display: Destroying online subsystem :Context_40
+[2024.11.08-02.48.14:023][827]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6620.975586
+[2024.11.08-02.48.14:154][842]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-02.48.14:154][842]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6621.098145, Update Interval: 345.594666
+[2024.11.08-02.48.22:672][778]BlueprintLog: New page: Compile BP_Cube
+[2024.11.08-02.48.22:713][778]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.11.08-02.48.22:722][778]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.48.22:723][778]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.48.22:739][778]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.48.22:740][778]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.48.40:606][851]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-02.48.40:641][851]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Cube" FILE="../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Cube.uasset" SILENT=true
+[2024.11.08-02.48.40:644][851]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Cube
+[2024.11.08-02.48.40:644][851]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_CubeF47553654333823FAD997D90807A561B.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Cube.uasset'
+[2024.11.08-02.48.40:650][851]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 1.00 sec)
+[2024.11.08-02.48.40:652][851]AssetCheck: New page: Asset Save: BP_Cube
+[2024.11.08-02.48.40:652][851]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Cube.BP_Cube
+[2024.11.08-02.48.46:161][465]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-02.48.46:186][465]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Mover" FILE="../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Mover.uasset" SILENT=true
+[2024.11.08-02.48.46:217][465]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Mover
+[2024.11.08-02.48.46:218][465]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_MoverC375C8F44F94766849E343A48D73BF78.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Mover.uasset'
+[2024.11.08-02.48.46:225][465]LogFileHelpers: InternalPromptForCheckoutAndSave took 63 ms (total: 1.06 sec)
+[2024.11.08-02.48.46:227][465]AssetCheck: New page: Asset Save: BP_Mover
+[2024.11.08-02.48.46:227][465]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Mover.BP_Mover
+[2024.11.08-02.50.26:567][278]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.08-02.50.26:585][278]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto6
+[2024.11.08-02.50.26:585][278]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/DY1JYT47TNQMLBO6QJVLD4_Auto65CD9DA3E445D8C6FE36671AB5FF7DFF3.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto6.uasset'
+[2024.11.08-02.50.26:587][278]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.036
+[2024.11.08-02.50.26:587][278]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.036
+[2024.11.08-02.52.38:048][527]LogEditorTransaction: Undo Modify Component(s)
+[2024.11.08-02.52.40:745][791]LogEditorTransaction: Redo Modify Component(s)
+[2024.11.08-02.54.12:994][ 74]BlueprintLog: New page: Compile BP_Cube
+[2024.11.08-02.54.13:059][ 74]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2024.11.08-02.54.13:070][ 74]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.54.13:070][ 74]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.54.13:080][ 74]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.54.13:080][ 74]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.54.14:523][226]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-02.54.14:528][226]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-02.54.14:528][226]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-02.54.14:529][226]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 874 us (total: 45 ms)
+[2024.11.08-02.54.14:529][226]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-02.54.14:529][226]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 02:54:14)
+[2024.11.08-02.54.14:530][226]LogPlayLevel: Display: Creating online subsystem for client :Context_41
+[2024.11.08-02.54.14:532][226]LogOnline: OSS: Created online subsystem instance for: :Context_41
+[2024.11.08-02.54.14:541][227]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-02.54.14:543][227]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001852s)
+[2024.11.08-02.54.14:543][227]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001898s)
+[2024.11.08-02.54.14:556][227]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.08-02.54.14:559][227]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-02.54.14:559][227]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-02.54.14:559][227]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-02.54.14:560][227]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-02.54.14:560][227]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-02.54.14:560][227]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-02.54.14:560][227]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-02.54.14:560][227]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-02.54.14:560][227]LogWorldPartition: Display: WorldPartition initialize took 516 us (total: 131 ms)
+[2024.11.08-02.54.14:560][227]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2024.11.08-02.54.14:560][227]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2024.11.08-02.54.14:560][227]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-02.54.14:560][227]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-02.54.14:560][227]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-02.54.14:560][227]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-02.54.14:560][227]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-02.54.14:560][227]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-02.54.14:560][227]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-02.54.14:560][227]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-02.54.14:561][227]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-02.54.14:561][227]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-02.54.14:561][227]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-02.54.14:563][227]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-02.54.14:594][227]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2024.11.08-02.54.14:595][227]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-02.54.14:595][227]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-02.54.14:595][227]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-02.54.14:596][227]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2024.11.08-02.54.14:596][227]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=32
+[2024.11.08-02.54.14:597][227]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2024.11.08-02.54.14:597][227]LogInit: FAudioDevice initialized with ID 32.
+[2024.11.08-02.54.14:597][227]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2024.11.08-02.54.14:597][227]LogAudio: Display: Audio Device (ID: 32) registered with world 'ThirdPersonMap'.
+[2024.11.08-02.54.14:597][227]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2024.11.08-02.54.14:628][227]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-02.54.14:628][227]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-02.54.14:629][227]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-02.54.14
+[2024.11.08-02.54.14:629][227]LogWorld: Bringing up level for play took: 0.000806
+[2024.11.08-02.54.14:639][227]PIE: Server logged in
+[2024.11.08-02.54.14:641][227]PIE: Play in editor total start time 0.112 seconds.
+[2024.11.08-02.54.14:656][227]LogViewport: Scene viewport resized to 2554x1360, mode Windowed.
+[2024.11.08-02.54.18:708][533]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-02.54.18:708][533]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-02.54.18:709][533]LogSlate: Window 'CubeWizard Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.08-02.54.18:713][533]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-02.54.18:713][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-02.54.18:713][533]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-02.54.18:719][533]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-02.54.18:725][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-02.54.18:741][533]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.08-02.54.18:742][533]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2024.11.08-02.54.18:742][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.11.08-02.54.18:743][533]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2024.11.08-02.54.18:750][533]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2024.11.08-02.54.18:815][534]LogPlayLevel: Display: Destroying online subsystem :Context_41
+[2024.11.08-02.54.35:642][421]BlueprintLog: New page: Compile BP_Cube
+[2024.11.08-02.54.35:676][421]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.08-02.54.35:685][421]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.54.35:686][421]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.54.35:695][421]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.54.35:695][421]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.54.36:457][510]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-02.54.36:462][510]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-02.54.36:462][510]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-02.54.36:462][510]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 855 us (total: 46 ms)
+[2024.11.08-02.54.36:463][510]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-02.54.36:463][510]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 02:54:36)
+[2024.11.08-02.54.36:463][510]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2024.11.08-02.54.36:465][510]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.11.08-02.54.36:470][511]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-02.54.36:472][511]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001753s)
+[2024.11.08-02.54.36:472][511]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001793s)
+[2024.11.08-02.54.36:485][511]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.08-02.54.36:487][511]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-02.54.36:487][511]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-02.54.36:487][511]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-02.54.36:488][511]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-02.54.36:488][511]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-02.54.36:488][511]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-02.54.36:488][511]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-02.54.36:489][511]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-02.54.36:489][511]LogWorldPartition: Display: WorldPartition initialize took 513 us (total: 132 ms)
+[2024.11.08-02.54.36:489][511]LogPlayLevel: PIE: World Init took: (0.001627s)
+[2024.11.08-02.54.36:489][511]LogAudio: Display: Creating Audio Device:                 Id: 33, Scope: Unique, Realtime: True
+[2024.11.08-02.54.36:489][511]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-02.54.36:489][511]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-02.54.36:489][511]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-02.54.36:489][511]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-02.54.36:489][511]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-02.54.36:489][511]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-02.54.36:489][511]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-02.54.36:489][511]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-02.54.36:489][511]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-02.54.36:489][511]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-02.54.36:489][511]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-02.54.36:491][511]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-02.54.36:519][511]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2024.11.08-02.54.36:520][511]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-02.54.36:520][511]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-02.54.36:520][511]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-02.54.36:520][511]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=33
+[2024.11.08-02.54.36:520][511]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=33
+[2024.11.08-02.54.36:522][511]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=33
+[2024.11.08-02.54.36:522][511]LogInit: FAudioDevice initialized with ID 33.
+[2024.11.08-02.54.36:522][511]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=33
+[2024.11.08-02.54.36:522][511]LogAudio: Display: Audio Device (ID: 33) registered with world 'ThirdPersonMap'.
+[2024.11.08-02.54.36:522][511]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 33
+[2024.11.08-02.54.36:551][511]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-02.54.36:551][511]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-02.54.36:552][511]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-02.54.36
+[2024.11.08-02.54.36:552][511]LogWorld: Bringing up level for play took: 0.000793
+[2024.11.08-02.54.36:560][511]PIE: Server logged in
+[2024.11.08-02.54.36:561][511]PIE: Play in editor total start time 0.099 seconds.
+[2024.11.08-02.54.36:572][511]LogViewport: Scene viewport resized to 2554x1360, mode Windowed.
+[2024.11.08-02.54.41:408][883]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-02.54.41:408][883]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-02.54.41:408][883]LogSlate: Window 'CubeWizard Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.08-02.54.41:412][883]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-02.54.41:412][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-02.54.41:413][883]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-02.54.41:417][883]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-02.54.41:421][883]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-02.54.41:439][883]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.08-02.54.41:440][883]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 33
+[2024.11.08-02.54.41:440][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.11.08-02.54.41:441][883]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=33
+[2024.11.08-02.54.41:448][883]LogUObjectHash: Compacting FUObjectHashTables data took   1.24ms
+[2024.11.08-02.54.41:487][884]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.11.08-02.54.50:944][  3]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7017.845703
+[2024.11.08-02.54.51:081][ 19]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2024.11.08-02.54.51:081][ 19]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7017.973145, Update Interval: 306.938080
+[2024.11.08-02.55.12:521][559]BlueprintLog: New page: Compile BP_CubeSpawner
+[2024.11.08-02.55.12:557][559]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.08-02.55.12:569][559]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.12:569][559]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.12:573][559]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.12:574][559]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.13:309][630]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-02.55.13:329][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_CubeSpawner" FILE="../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_CubeSpawner.uasset" SILENT=true
+[2024.11.08-02.55.13:336][630]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_CubeSpawner
+[2024.11.08-02.55.13:337][630]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_CubeSpawner9323F4C243B8AE1A26CCE0B0BB7F7244.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_CubeSpawner.uasset'
+[2024.11.08-02.55.13:343][630]LogFileHelpers: InternalPromptForCheckoutAndSave took 34 ms (total: 1.10 sec)
+[2024.11.08-02.55.13:344][630]AssetCheck: New page: Asset Save: BP_CubeSpawner
+[2024.11.08-02.55.13:344][630]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_CubeSpawner.BP_CubeSpawner
+[2024.11.08-02.55.38:995][602]BlueprintLog: New page: Compile BP_Cube
+[2024.11.08-02.55.39:050][602]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2024.11.08-02.55.39:061][602]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.39:061][602]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.39:072][602]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.39:072][602]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.40:222][725]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.08-02.55.40:262][725]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Cube" FILE="../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Cube.uasset" SILENT=true
+[2024.11.08-02.55.40:265][725]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Cube
+[2024.11.08-02.55.40:266][725]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Cube8B49AC134E0E9972C5DE0CB1C016BB41.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Cube.uasset'
+[2024.11.08-02.55.40:271][725]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 1.14 sec)
+[2024.11.08-02.55.40:272][725]AssetCheck: New page: Asset Save: BP_Cube
+[2024.11.08-02.55.40:272][725]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Cube.BP_Cube
+[2024.11.08-02.55.43:539][110]BlueprintLog: New page: Compile BP_CubeSpawner
+[2024.11.08-02.55.43:576][110]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2024.11.08-02.55.43:593][110]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.43:593][110]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.43:598][110]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.55.43:598][110]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.56.22:372][737]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: dc8...33f
+[2024.11.08-02.56.22:372][737]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 100 RefreshExpires: 1.546e+07
+[2024.11.08-02.56.22:538][757]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: dc8...33f Access[Expires: 2024.11.08-04.56.22 Remaining: 7200.91] Refresh[Expires: 2025-05-07T02:56:22.912Z Remaining: 15552000.91] State: Valid
+[2024.11.08-02.56.22:892][799]BlueprintLog: New page: Compile BP_CubeSpawner
+[2024.11.08-02.56.22:896][799]LogBlueprint: Error: [AssetLog] D:\UnReal Projects\UnReal\CubeWizard\Content\ThirdPerson\Blueprints\BP_CubeSpawner.uasset: [Compiler] The current value of the ' Value ' pin is invalid: 'Value' in action 'Set Text' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2024.11.08-02.56.22:927][799]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2024.11.08-02.56.22:944][799]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.56.22:944][799]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.56.22:948][799]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.56.22:949][799]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.56.35:633][308]BlueprintLog: New page: Compile BP_CubeSpawner
+[2024.11.08-02.56.35:669][308]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.08-02.56.35:688][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.56.35:688][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.56.35:693][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.56.35:693][308]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.56.36:950][454]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.08-02.56.36:954][454]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.08-02.56.36:954][454]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2024.11.08-02.56.36:955][454]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 781 us (total: 47 ms)
+[2024.11.08-02.56.36:955][454]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.08-02.56.36:955][454]PIE: New page: PIE session: ThirdPersonMap (8 Nov 2024, 02:56:36)
+[2024.11.08-02.56.36:955][454]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2024.11.08-02.56.36:958][454]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.11.08-02.56.36:963][455]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-02.56.36:965][455]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001815s)
+[2024.11.08-02.56.36:965][455]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.001854s)
+[2024.11.08-02.56.36:981][455]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2024.11.08-02.56.36:982][455]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.08-02.56.36:983][455]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.08-02.56.36:983][455]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2024.11.08-02.56.36:983][455]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.08-02.56.36:983][455]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.08-02.56.36:983][455]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.08-02.56.36:983][455]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.08-02.56.36:984][455]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2024.11.08-02.56.36:984][455]LogWorldPartition: Display: WorldPartition initialize took 535 us (total: 132 ms)
+[2024.11.08-02.56.36:984][455]LogPlayLevel: PIE: World Init took: (0.001576s)
+[2024.11.08-02.56.36:984][455]LogAudio: Display: Creating Audio Device:                 Id: 34, Scope: Unique, Realtime: True
+[2024.11.08-02.56.36:984][455]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.08-02.56.36:984][455]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.08-02.56.36:984][455]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.08-02.56.36:984][455]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.08-02.56.36:984][455]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.11.08-02.56.36:984][455]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.08-02.56.36:984][455]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.11.08-02.56.36:984][455]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.08-02.56.36:985][455]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.08-02.56.36:985][455]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.08-02.56.36:985][455]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.08-02.56.36:987][455]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.08-02.56.37:016][455]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Logitech G733 Gaming Headset)
+[2024.11.08-02.56.37:017][455]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.08-02.56.37:017][455]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.08-02.56.37:017][455]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.08-02.56.37:017][455]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=34
+[2024.11.08-02.56.37:017][455]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=34
+[2024.11.08-02.56.37:019][455]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=34
+[2024.11.08-02.56.37:019][455]LogInit: FAudioDevice initialized with ID 34.
+[2024.11.08-02.56.37:019][455]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=34
+[2024.11.08-02.56.37:019][455]LogAudio: Display: Audio Device (ID: 34) registered with world 'ThirdPersonMap'.
+[2024.11.08-02.56.37:019][455]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 34
+[2024.11.08-02.56.37:053][455]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-02.56.37:053][455]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2024.11.08-02.56.37:054][455]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 0) at 2024.11.08-02.56.37
+[2024.11.08-02.56.37:054][455]LogWorld: Bringing up level for play took: 0.000878
+[2024.11.08-02.56.37:071][455]PIE: Server logged in
+[2024.11.08-02.56.37:072][455]PIE: Play in editor total start time 0.118 seconds.
+[2024.11.08-02.56.37:085][455]LogViewport: Scene viewport resized to 2554x1360, mode Windowed.
+[2024.11.08-02.57.37:158][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.08-02.57.37:158][139]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2024.11.08-02.57.37:158][139]LogSlate: Window 'CubeWizard Preview [NetMode: Standalone 0]  (64-bit/PC D3D SM6)' being destroyed
+[2024.11.08-02.57.37:161][139]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.08-02.57.37:162][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-02.57.37:162][139]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2024.11.08-02.57.37:166][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.08-02.57.37:173][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.08-02.57.37:191][139]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.08-02.57.37:191][139]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 34
+[2024.11.08-02.57.37:191][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.11.08-02.57.37:193][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=34
+[2024.11.08-02.57.37:199][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.08-02.57.37:230][140]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.11.08-02.57.38:305][266]BlueprintLog: New page: Compile BP_CubeSpawner
+[2024.11.08-02.57.38:339][266]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2024.11.08-02.57.38:356][266]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.57.38:357][266]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.57.38:361][266]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
+[2024.11.08-02.57.38:361][266]LogSpawn: Warning: SpawnActor failed because we are running a ConstructionScript (BP_CubeSpawner_C)
