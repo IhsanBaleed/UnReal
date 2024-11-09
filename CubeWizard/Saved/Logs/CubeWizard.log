@@ -3908,3 +3908,15 @@ Script call stack:
 [2024.11.09-05.17.13:958][943]LogPlayLevel: Display: Destroying online subsystem :Context_37
 [2024.11.09-05.17.33:260][932]BlueprintLog: New page: Compile BP_Sorter
 [2024.11.09-05.17.33:327][932]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.09-05.18.04:275][295]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.09-05.18.04:300][295]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Sorter" FILE="../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Sorter.uasset" SILENT=true
+[2024.11.09-05.18.04:346][295]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Sorter
+[2024.11.09-05.18.04:347][295]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/BP_Sorter8CF0EF28401C81C235BF6B95B8EF17FA.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Content/ThirdPerson/Blueprints/BP_Sorter.uasset'
+[2024.11.09-05.18.04:355][295]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 3.59 sec)
+[2024.11.09-05.18.04:358][295]AssetCheck: New page: Asset Save: BP_Sorter
+[2024.11.09-05.18.04:358][295]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_Sorter.BP_Sorter
+[2024.11.09-05.18.07:822][486]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.09-05.18.07:826][486]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto4
+[2024.11.09-05.18.07:827][486]LogSavePackage: Moving '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/DY1JYT47TNQMLBO6QJVLD4_Auto4A05A8829438DB701B7EC888E535E899A.tmp' to '../../../../../UnReal Projects/UnReal/CubeWizard/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/AX/DY1JYT47TNQMLBO6QJVLD4_Auto4.uasset'
+[2024.11.09-05.18.07:828][486]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.023
+[2024.11.09-05.18.07:828][486]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.023
